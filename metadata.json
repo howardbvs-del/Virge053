@@ -1,0 +1,9 @@
+{
+  "name": "Guardian Angel",
+  "description": "A high-stakes real-time crime assistance and SOS application that connects nearby users and provides tactical safety intelligence.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
